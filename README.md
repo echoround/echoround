@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Hans Vilu @echoround
 - 📫 Reach me on hansvilu@protonmail.com
 
 
